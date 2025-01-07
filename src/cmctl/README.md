@@ -7,7 +7,7 @@ cmctl is a command line tool that can help you manage cert-manager and its resou
 
 ```json
 "features": {
-    "ghcr.io/amerintlxperts/devcontainer-features/cmctl:0": {}
+    "ghcr.io/zeulewan/devcontainer-features/cmctl:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ cmctl is a command line tool that can help you manage cert-manager and its resou
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/amerintlxperts/devcontainer-features/blob/main/src/cmctl/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/zeulewan/devcontainer-features/blob/main/src/cmctl/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
