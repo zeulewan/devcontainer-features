@@ -7,7 +7,7 @@ ubuntu-restricted-extras
 
 ```json
 "features": {
-    "ghcr.io/amerintlxperts/devcontainer-features/ubuntu-restricted-extras:0": {}
+    "ghcr.io/zeulewan/devcontainer-features/ubuntu-restricted-extras:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ ubuntu-restricted-extras
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/amerintlxperts/devcontainer-features/blob/main/src/ubuntu-restricted-extras/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/zeulewan/devcontainer-features/blob/main/src/ubuntu-restricted-extras/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
