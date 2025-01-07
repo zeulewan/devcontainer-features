@@ -1,0 +1,10 @@
+{
+  "description": "Create the python environment for openwebui",
+  "id": "openwebui-environment",
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils",
+    "ghcr.io/devcontainers/features/anaconda"
+  ],
+  "name": "OpenWeb UI Python Environment",
+  "version": "0.0.5"
+}

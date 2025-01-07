@@ -1,0 +1,10 @@
+{
+  "description": "Create the python environment for textgen",
+  "id": "textgen-environment",
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils",
+    "ghcr.io/devcontainers/features/anaconda"
+  ],
+  "name": "TextGen Python Environment",
+  "version": "0.0.5"
+}
